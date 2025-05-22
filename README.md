@@ -24,6 +24,14 @@ If you have specialized skills in Unity, feel free to join us — we are open fo
     <img src="https://img.shields.io/discord/your-server-id?label=Join%20GameDev%20Discord&style=for-the-badge&logo=discord" alt="Discord" />
   </a>
 </p>
+<div align="center"><img src="https://github.com/AjiEkaM/AjiEkaM/blob/main/assets/status%20on.gif" width="150"></div>
+
+<br><br>
+
+---
+
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eka-Excalibur&theme=dark" alt="AjiEkaM" /></p></div>
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eka-Excalibur&show_icons=true&locale=en&theme=dark" alt="AjiEkaM" /></p></div>
 
 ---
 
